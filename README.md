@@ -1,108 +1,193 @@
-# 👋 Salut, je suis Hicham El Alaoui
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D310&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Taibi+El+Yakouti+|+@xdweb;" />
+</h1>
+<h3 align="center">Artificial Intelligence Student | Robotics Champion | Cybersecurity Enthusiast | Graphic & Web Designer | Event Organizer | ALX Software Engineer in Progress</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Stagiaire+en+IA+%7C+Data+Scientist+%7C+Mobile+Developer+%7C+Passionné+de+Cybersécurité" />
+<p align="center">
+  <img src="https://profile-counter.glitch.me/xdweeb/count.svg">
+</p>
+
+<p align="center">
+<a target="blank"> <img align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /></a>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://www.linkedin.com/in/taibi-el-yakouti-7852a0253/" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="LinkedIn" />
+  </a>
+  <a href="mailto:xdweb.elyakouti@hotmail.com" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Gmail" />
+  </a>
+    <a href="https://discordid.netlify.app/?id=592208059099774976" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/356/356060.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Discord" />
+  <a href="https://twitter.com/elyakoutiweb" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335289.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Twitter" />
+  </a>
+  </a>
+  <a href="https://instagram.com/xdweb" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335273.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Instagram" />
+  </a>
 </div>
 
----
 
-## 🚀 À propos de moi
+<h3 align="center">Certification Badges:</h3>
+<div style="display:flex; align-items:center; gap: 10px;" align="center">
+  <a href="https://www.credly.com/badges/37d07a2e-5ae7-4963-9a74-2a8cdc208234/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
+  </a>
+</div>
 
-Je suis un stagiaire passionné par l’**intelligence artificielle**, l’analyse de données et le développement mobile. J’aime créer des solutions innovantes qui combinent **IA**, **web** et **mobile** pour transformer des idées en réalité.
+</details> 
 
-- 🔍 En formation IA, avec des projets en **vision par ordinateur** et **reconnaissance d’images**  
-- 💻 Maîtrise de **Python**, **React Native**, **Flask**, et **Streamlit**  
-- 📊 Expert en analyse de données avec **Pandas**, **Numpy**, **Seaborn**  
-- 🚀 Développement d’applications mobiles (APK) via **Expo**  
-- 🌍 Actuellement, projet de reconnaissance d’images touristiques marocaines  
-- 🔐 Intérêt fort pour la **cybersécurité** et la **fair AI / XAI**
+<div align="center" style="margin-bottom: 20px;">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=xdweeb&label=Profile%20views&color=0e75b6&style=flat" alt="xdweb" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/github/stars/xdweeb" alt="xdweb" />
+  </a>
+</div>
 
----
 
-## 🧰 Tech Stack & Outils
+<div align="center" style="margin-bottom: 20px;">
+   <p>
+      <a href="https://github.com/xdweeb/github-profile-trophy">
+         <img src="https://github-profile-trophy.vercel.app/?username=xdweeb&title=-Issues" alt="xdweeb" />
+      </a>
+   </p>
+</div>
 
-| Domaine                 | Technologies                                                                                         |
-|------------------------|-----------------------------------------------------------------------------------------------------|
-| 🧠 IA & Machine Learning | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30" title="Python" /> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30" title="TensorFlow" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30" title="PyTorch" /> |
-| 📱 Mobile & Web         | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30" title="React Native" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="30" title="Flask" /> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="30" title="Streamlit" /> |
-| 📊 Data Analysis        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" title="Pandas" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" title="Numpy" /> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30" title="Seaborn" /> |
-| 🛠️ Outils & DevOps       | <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" title="Git" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" title="VSCode" /> <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="30" title="Jupyter" /> |
 
----
 
-## 📊 Mes stats GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hicham-ai05&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-ai05&theme=radical" width="48%" />
-</p>
 
----
+- 🌱 I’m currently learning **Artificial Intelligence and Cybersecurity**
 
-## 🔥 Langages préférés
+- 👨‍💻 All of my projects are available at [https://github.com/xdweeb](https://github.com/xdweeb)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-ai05&layout=compact&theme=radical" width="50%" />
-</p>
+- 📝 I regularly write articles on [https://xdweb.me](https://xdweb.me)
 
----
+- 💬 Ask me about **Anything related to Robotics, Ai, or cybersecurity.**
 
-## 🐍 Contribution Snake
+- 📫 How to reach me **xdweb.elyakouti@hotmail.com**
 
-<p align="center">
-  <img src="https://github.com/hicham-ai05/hicham-ai05/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
+- 📄 Know about my experiences [https://xdweb.me](https://xdweb.me)
 
----
+- ⚡ Fun fact **The name 'Arduino' was inspired by a bar in Ivrea, Italy, where the project's founders used to meet. It's a nod to the place where innovation and collaboration sparked, just like the projects I love to create!**
 
-## 🏆 Réalisations clés
+<p><img align="center" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="xdweeb" /></p>
 
-- 🧠 Projet IA: Reconnaissance d’images de lieux touristiques au Maroc  
-- 📱 Création d’APK Android avec React Native & Expo  
-- 🔥 API Flask & interface Streamlit déployées en ligne  
-- 📊 Visualisations avancées avec Matplotlib, Seaborn  
-- 🔐 Focus sur XAI et Fairness AI dans mes projets  
 
----
 
-## 🌐 Contactez-moi
+###
+
+
+###
+
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hicham-ai05" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:elalaouihicham.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://discordid.netlify.app/?id=592208059099774976" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,anaconda,androidstudio,arduino,aws,bash,blender,c,cs,cpp,cloudflare,css,django,azure,figma,flutter,github,html,ai,linux,kali,mongodb,docker,mysql,notion,ps,postgres,powershell,processing,pycharm,py,raspberrypi,redhat,replit,sqlite,sklearn,emacs,nodejs,matlab,md,js,java,swift,tailwind,tensorflow,ubuntu,unity,visualstudio,vscode,gmail,gitlab,flask,wordpress,windows,vim,react,r,opencv,stackoverflow,php" />
+  </a>
 </p>
 
----
 
-> 💡 *“Apprendre, coder, partager, et grandir chaque jour.”*
 
----
+### 📈 GitHub Analytics
 
-## ⚡ Fun Fact:
+<div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xdweeb&theme=github_dark" alt="Profile Details">
+</div>
+
+<div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xdweeb&theme=github_dark" alt="Top Languages">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xdweeb&theme=github_dark" alt="Most Commit Language">
+</div>
+
+<div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xdweeb&theme=github_dark" alt="GitHub Stats">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xdweeb&theme=github_dark&utcOffset=8" alt="Productive Time">
+</div>
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+   <a target="blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdweeb" alt="Streak Stats" height="300" width="400" />
+   </a>
+   <a target="blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xdweeb&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="300" width="285" />
+   </a>
+</div>
+
+<details>
+<summary><b>📈 Get My Code Stats</b></summary><br>
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1500 commits        ███████░░░░░░░░░░░░░░░░░░   30.00% 
+🌆 Daytime                2000 commits        ██████████░░░░░░░░░░░░░░░   40.00% 
+🌃 Evening                1000 commits        ███████░░░░░░░░░░░░░░░░░░   20.00% 
+🌙 Night                  500 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00% 
+```
+
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   800 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00% 
+Tuesday                  1000 commits        █████░░░░░░░░░░░░░░░░░░░░   20.00% 
+Wednesday                900 commits         █████░░░░░░░░░░░░░░░░░░░░   18.00% 
+Thursday                 1300 commits        ███████░░░░░░░░░░░░░░░░░░   26.00% 
+Friday                   400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00% 
+Saturday                 400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00% 
+Sunday                   200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   04.00% 
+```
+<!--END_SECTION:waka-->
+</details>
+
+
+<details>
+  <summary><b>⚙️ Spotify</b></summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <!-- Spotify GitHub Profile -->
+          <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bzye3bxbglc4i75xf5woju65hq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile" width="240" />
+          </a>
+        </td>
+        <td align="center">
+          <!-- Spotify Recently Played -->
+          <a href="https://open.spotify.com/user/31bzye3bxbglc4i75xf5woju65hq" target="_blank">
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzye3bxbglc4i75xf5woju65hq" alt="Spotify Recently Played" width="400" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="200" />
+<img src="https://raw.githubusercontent.com/xdweeb/xdweeb/output/snake.svg" alt="Snake animation" />
 </p>
 
-> Je peux transformer une simple photo en prédiction IA + résumé Wikipédia + position Google Maps! 😎
+###
 
----
+<div align="center">
+   <p>Do you want to contact me for collaboration opportunities? ⟶ 
+      <a href="mailto:xdweb.elyakouti@gmail.com">Contact Details</a><br> 
+      <b>Show some ❤️ by starring some of the repositories!</b>
+   </p>
+</div>
 
-### 🛠️ Code stylé pour présenter ta personnalité (Python example) :
 
-```python
-class HichamElAlaoui:
-    def __init__(self):
-        self.name = "Hicham El Alaoui"
-        self.role = "Stagiaire IA & Data Analyst"
-        self.location = "Maroc"
-
-    def skills(self):
-        return ["Python", "React Native", "Flask", "Streamlit", "Pandas", "TensorFlow"]
-
-    def projects(self):
-        return ["Reconnaissance images", "APK React Native", "API Flask", "Visualisation Data"]
-
-    def fun_fact(self):
-        return "Je transforme une image en prédiction IA + résumé Wikipédia + position Maps"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
