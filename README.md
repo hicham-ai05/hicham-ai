@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=00D310&center=true&vCenter=true&width=650&height=80&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Hicham+El+Alaoui+|+AI+Stagiaire+|+Data+Scientist" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=00D310&center=true&vCenter=true&width=650&height=80&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+HICHAM+EL+ALAOUI+|+AI+Stagiaire+|+Data+Scientist" />
 </h1>
-
-<h2 align="center" style="color:#00D310; font-weight:bold;">
-  Hicham El Alaoui
-</h2>
 
 <h3 align="center" style="color:#00D310;">
   Stagiaire en Intelligence Artificielle | Analyste de Données | Développeur Mobile & Web | Passionné de Cybersécurité
@@ -112,7 +108,7 @@
 ```python
 class HichamElAlaoui:
     def __init__(self):
-        self.name = "Hicham El Alaoui"
+        self.name = "HICHAM EL ALAOUI"
         self.role = "Stagiaire IA & Data Analyst"
         self.location = "Maroc"
 
